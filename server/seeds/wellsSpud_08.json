@@ -1,0 +1,9 @@
+// TODO: functions should build these JSON files for us
+
+[
+  {
+    "fiscal_year": "2020",
+    "state": "Colorado",
+    "wells_spud": 157
+  }
+]
